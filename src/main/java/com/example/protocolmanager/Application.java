@@ -1,13 +1,13 @@
-package br.gov.sp.ferrazdevasconcelos.protocolmanager;
+package com.example.protocolmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProtocolManagerApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProtocolManagerApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package br.gov.sp.ferrazdevasconcelos.protocolmanager;
+package com.example.protocolmanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GerenciadorDeProtocolosApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {

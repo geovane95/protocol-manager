@@ -8,18 +8,18 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.gov.sp.ferrazdevasconcelos</groupId>
+	<groupId>com.example</groupId>
 	<artifactId>protocol-manager</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Gerenciador de Protocolos</name>
-	<description>Projeto de gerenciador de protocolos</description>
+	<name>demo</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
